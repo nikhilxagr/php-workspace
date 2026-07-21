@@ -1,7 +1,3 @@
-
-
-<!-- Syntax  -->
-
 <?php
 $fruits = array("Apple", "Banana", "Mango");
 
